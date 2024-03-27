@@ -24,6 +24,7 @@
     <ProjectGuid>{06aab678-1e07-4b51-8a9c-5bb8cf79cdf8}</ProjectGuid>
     <RootNamespace>BankMenuProject12CPP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Bank_Project</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
