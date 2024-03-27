@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BankMenu_Project1&amp;2_CPP.cpp">
+    <ClCompile Include="Bank_Project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
